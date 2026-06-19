@@ -102,16 +102,22 @@ Principais operações realizadas:
 ```text
 src/
 │
-├── model/
-│   ├── Veiculo.java
+├── Main.java
+│   
 │
-├── service/
-│   ├── EstacionamentoService.java
+├── Veiculo.java
+│   
 │
-├── controller/
-│   ├── SistemaController.java
+├── Carro.java
+│   
 │
-└── Main.java
+└── Moto.java
+│   
+│
+└── Caminhao.java
+│   
+│
+└── Estacionamento.java
 ```
 
 > A estrutura pode variar conforme a organização do projeto.
